@@ -4,7 +4,7 @@ A Java sensor data analysis server written for the class `Object-Oriented Progra
 This code was produced as group work with Stefan Höllbacher, Adna Ribo and Clemens Hofmann.
 
 My contributions were mostly on the client interace, the cache and some general anaylsis server functionality. 
-Design decisions are documented in (https://github.com/sarahalang/analysis-server/blob/main/SUBMISSION.md)[`SUBMISSION.md`].
+Design decisions are documented in [`SUBMISSION.md`](https://github.com/sarahalang/analysis-server/blob/main/SUBMISSION.md).
 
 
 In order to run this, both the client and server need to be started up in different terminals (the server needs to be running when the client is started up). 
