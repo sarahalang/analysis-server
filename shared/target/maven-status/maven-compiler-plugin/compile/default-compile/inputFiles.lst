@@ -1,0 +1,8 @@
+/app/shared/src/main/java/at/tugraz/oop2/Util.java
+/app/shared/src/main/java/at/tugraz/oop2/data/SOMQueryParameters.java
+/app/shared/src/main/java/at/tugraz/oop2/data/DataQueryParameters.java
+/app/shared/src/main/java/at/tugraz/oop2/data/Sensor.java
+/app/shared/src/main/java/at/tugraz/oop2/data/DataSeries.java
+/app/shared/src/main/java/at/tugraz/oop2/Logger.java
+/app/shared/src/main/java/at/tugraz/oop2/data/ClusterDescriptor.java
+/app/shared/src/main/java/at/tugraz/oop2/data/DataPoint.java

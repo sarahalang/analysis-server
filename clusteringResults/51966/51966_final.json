@@ -1,0 +1,640 @@
+[
+  {
+    "heigthIndex": 0,
+    "widthIndex": 0,
+    "weights": [
+      0.4834063552647314,
+      0.332318610867394
+    ],
+    "members": [
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 14,
+              "minute": 30,
+              "second": 20,
+              "nano": 0
+            }
+          },
+          "value": 12.112499999999999
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 15,
+              "minute": 30,
+              "second": 16,
+              "nano": 0
+            }
+          },
+          "value": 10.791999999999998
+        }
+      ]
+    ],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 0,
+    "widthIndex": 1,
+    "weights": [
+      0.48809082695565226,
+      0.32858667694898525
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 0,
+    "widthIndex": 2,
+    "weights": [
+      0.049281804335401413,
+      0.0350948357673542
+    ],
+    "members": [
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 2,
+              "minute": 29,
+              "second": 28,
+              "nano": 0
+            }
+          },
+          "value": 9.428000000000003
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 3,
+              "minute": 29,
+              "second": 27,
+              "nano": 0
+            }
+          },
+          "value": 8.279166666666663
+        }
+      ],
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 18,
+              "minute": 30,
+              "second": 11,
+              "nano": 0
+            }
+          },
+          "value": 8.508333333333335
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 19,
+              "minute": 30,
+              "second": 10,
+              "nano": 0
+            }
+          },
+          "value": 7.936
+        }
+      ]
+    ],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 0,
+    "widthIndex": 3,
+    "weights": [
+      0.04927522408325305,
+      0.03511445172701551
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 1,
+    "widthIndex": 0,
+    "weights": [
+      0.04926024406700186,
+      0.03511223753593437
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 1,
+    "widthIndex": 1,
+    "weights": [
+      0.04927778962936199,
+      0.03509871052384152
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 1,
+    "widthIndex": 2,
+    "weights": [
+      0.04927276663289311,
+      0.03511088084324658
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 1,
+    "widthIndex": 3,
+    "weights": [
+      0.47328126380787294,
+      0.3188350194254619
+    ],
+    "members": [
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 0,
+              "minute": 29,
+              "second": 32,
+              "nano": 0
+            }
+          },
+          "value": 10.432000000000002
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 1,
+              "minute": 29,
+              "second": 28,
+              "nano": 0
+            }
+          },
+          "value": 10.570833333333335
+        }
+      ],
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 16,
+              "minute": 30,
+              "second": 15,
+              "nano": 0
+            }
+          },
+          "value": 9.912499999999998
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 17,
+              "minute": 30,
+              "second": 13,
+              "nano": 0
+            }
+          },
+          "value": 9.331999999999999
+        }
+      ]
+    ],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 2,
+    "widthIndex": 0,
+    "weights": [
+      0.0492648135882836,
+      0.03510316598338688
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 2,
+    "widthIndex": 1,
+    "weights": [
+      0.8220949273838032,
+      0.8610376811939154
+    ],
+    "members": [
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 10,
+              "minute": 30,
+              "second": 31,
+              "nano": 0
+            }
+          },
+          "value": 12.595833333333331
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 11,
+              "minute": 30,
+              "second": 28,
+              "nano": 0
+            }
+          },
+          "value": 14.832
+        }
+      ],
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 12,
+              "minute": 30,
+              "second": 25,
+              "nano": 0
+            }
+          },
+          "value": 13.879166666666668
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 13,
+              "minute": 30,
+              "second": 22,
+              "nano": 0
+            }
+          },
+          "value": 13.412
+        }
+      ]
+    ],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 2,
+    "widthIndex": 2,
+    "weights": [
+      0.049274159726905825,
+      0.035107909225549946
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 2,
+    "widthIndex": 3,
+    "weights": [
+      0.049270465035066525,
+      0.035103488996561655
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 3,
+    "widthIndex": 0,
+    "weights": [
+      0.049248890378462896,
+      0.035124582638283525
+    ],
+    "members": [
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 4,
+              "minute": 29,
+              "second": 25,
+              "nano": 0
+            }
+          },
+          "value": 8.02
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 5,
+              "minute": 29,
+              "second": 26,
+              "nano": 0
+            }
+          },
+          "value": 7.904166666666671
+        }
+      ],
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 6,
+              "minute": 29,
+              "second": 27,
+              "nano": 0
+            }
+          },
+          "value": 7.74
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 7,
+              "minute": 29,
+              "second": 28,
+              "nano": 0
+            }
+          },
+          "value": 7.729166666666664
+        }
+      ],
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 8,
+              "minute": 29,
+              "second": 26,
+              "nano": 0
+            }
+          },
+          "value": 7.512
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 9,
+              "minute": 30,
+              "second": 36,
+              "nano": 0
+            }
+          },
+          "value": 8.732
+        }
+      ]
+    ],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 3,
+    "widthIndex": 1,
+    "weights": [
+      0.04926421064881571,
+      0.03511421016726355
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 3,
+    "widthIndex": 2,
+    "weights": [
+      0.049260334755661814,
+      0.03509776474451254
+    ],
+    "members": [
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 20,
+              "minute": 30,
+              "second": 9,
+              "nano": 0
+            }
+          },
+          "value": 7.762500000000002
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 21,
+              "minute": 30,
+              "second": 6,
+              "nano": 0
+            }
+          },
+          "value": 7.803999999999999
+        }
+      ],
+      [
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 22,
+              "minute": 29,
+              "second": 59,
+              "nano": 0
+            }
+          },
+          "value": 7.758333333333329
+        },
+        {
+          "time": {
+            "date": {
+              "year": 2018,
+              "month": 1,
+              "day": 1
+            },
+            "time": {
+              "hour": 23,
+              "minute": 30,
+              "second": 0,
+              "nano": 0
+            }
+          },
+          "value": 7.520000000000003
+        }
+      ]
+    ],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  },
+  {
+    "heigthIndex": 3,
+    "widthIndex": 3,
+    "weights": [
+      0.049261934994082,
+      0.035111277020242915
+    ],
+    "members": [],
+    "error": -1.0,
+    "normalizedError": -1.0,
+    "normalizedAmountOfMembers": -1.0,
+    "distanceEntropy": -1.0,
+    "normalizedDistanceEntropy": -1.0
+  }
+]

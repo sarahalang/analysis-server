@@ -1,0 +1,7 @@
+/app/analysis-server/src/main/java/at/tugraz/oop2/server/ServerMain.java
+/app/analysis-server/src/main/java/at/tugraz/oop2/server/CacheElement.java
+/app/analysis-server/src/main/java/at/tugraz/oop2/server/AnalysisServer.java
+/app/analysis-server/src/main/java/at/tugraz/oop2/server/SOMHandler.java
+/app/analysis-server/src/main/java/at/tugraz/oop2/server/ClientHandlerThread.java
+/app/analysis-server/src/main/java/at/tugraz/oop2/server/SensorManager.java
+/app/analysis-server/src/main/java/at/tugraz/oop2/server/ClientCommand.java
